@@ -45,37 +45,34 @@
 
 ## Weekly Groups
 
-Find your weekly groups [here](./resources/groups.md).
+See the [wiki](https://github.com/Devbootcamp/phase-2-guide/wiki/Groups) for your weekly groups.
 
 ## Weekly Cadence
 
-- Yoga: <- FILL IN DETAILS HERE ->
-- Engineering Empathy: Tuesdays at <- FILL IN DETAILS HERE ->
-  - Week One <- FILL IN DETAILS HERE ->
-  - Week Two <- FILL IN DETAILS HERE ->
-  - Week Three <- FILL IN DETAILS HERE ->
-- Careers Checkin: <- FILL IN DETAILS HERE ->
+- Yoga: Tuesday and Thursdays from 12:15 - 1:15
+- Engineering Empathy:
+  - Week One: Allyship and Inclusion, Thursday from 4:00-5:30
+  - Week Two: Empathy and Authenticity, Tuesday from 4:00-5:30
+- Careers Checkin: Weekly online activities
 - Assessment: Third Wednesday starting in the morning
   - "The Challenge" - All day (break for lunch, as usual)
-  - "Code Review" - 30 minute blocks starting Thursday morning
 
 ## Daily Cadence
 
 Time    | Activity
 ---     | ---
-<- FILL IN DETAILS HERE -> | Check in with accountability buddies
-<- FILL IN DETAILS HERE -> | Morning Announcements
-<- FILL IN DETAILS HERE -> | Daily Progress Checkin
-<- FILL IN DETAILS HERE -> | Challenges/Breakouts
-<- FILL IN DETAILS HERE -> | Lunch
-<- FILL IN DETAILS HERE -> | Afternoon Announcements
-<- FILL IN DETAILS HERE -> | Challenges/Breakouts
-<- FILL IN DETAILS HERE -> | End of core hours
-<- FILL IN DETAILS HERE -> | After hours learning/mentoring/solo time
+8:45 AM | Check in with accountability buddies
+9:00 AM | Daily Progress Checkin/Lecture
+10:00 PM | Challenges/Breakouts
+12:30 PM | Lunch
+2:00 PM | Afternoon Announcements
+2:10 PM | Challenges/Breakouts
+5:45 PM | End of day
+6:00 PM | After hours learning/mentoring/solo time
 
 
 ## Additional Resources
 
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
-- Counseling Signup <- FILL IN DETAILS HERE ->
+- [Counseling Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU1IajlIME1VSmxWfGRlZmF1bHR8MjFkZGFmMWYyMGJiZWMzOTZjY2FmZjMyNWExNjllNjQ)
