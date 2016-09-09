@@ -49,10 +49,10 @@ See the [wiki](https://github.com/Devbootcamp/phase-2-guide/wiki/Groups) for you
 
 ## Weekly Cadence
 
-- Yoga: Tuesday and Thursdays from 12:15 - 1:15
+- Yoga: Tuesday and Thursdays from 12:15 PM - 1:15 PM
 - Engineering Empathy:
-  - Week One: Allyship and Inclusion, Thursday from 4:00-5:30
-  - Week Two: Empathy and Authenticity, Tuesday from 4:00-5:30
+  - Week One: Allyship and Inclusion, Thursday from 4:00 PM - 5:30 PM
+  - Week Two: Empathy and Authenticity, Tuesday from 4:00 PM - 5:30 PM
 - Careers:
   - Week One: Technical Resume Iteration 1
   - Week Two: LinkedIn Iteration 1
