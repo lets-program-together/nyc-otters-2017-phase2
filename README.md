@@ -57,8 +57,7 @@ See the [wiki](https://github.com/Devbootcamp/phase-2-guide/wiki/Groups) for you
   - Week One: Technical Resume Iteration 1
   - Week Two: LinkedIn Iteration 1
   - Week Three: Tech Industry fireside chat
-- Assessment: Third Wednesday starting in the morning
-  - "The Challenge" - All day (break for lunch, as usual)
+- Assessment: Third Wednesday from 9:00 AM to 5:45 PM
 
 ## Daily Cadence
 
