@@ -53,7 +53,10 @@ See the [wiki](https://github.com/Devbootcamp/phase-2-guide/wiki/Groups) for you
 - Engineering Empathy:
   - Week One: Allyship and Inclusion, Thursday from 4:00-5:30
   - Week Two: Empathy and Authenticity, Tuesday from 4:00-5:30
-- Careers Checkin: Weekly online activities
+- Careers:
+  - Week One: Technical Resume Iteration 1
+  - Week Two: LinkedIn Iteration 1
+  - Week Three: Tech Industry fireside chat
 - Assessment: Third Wednesday starting in the morning
   - "The Challenge" - All day (break for lunch, as usual)
 
