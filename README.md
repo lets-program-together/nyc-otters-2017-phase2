@@ -45,7 +45,7 @@
 
 ## Weekly Groups
 
-See the [wiki](https://github.com/Devbootcamp/phase-2-guide/wiki/Groups) for your weekly groups.
+See the [wiki](https://github.com/nyc-wolves-2016/phase-2-guide/wiki/Groups) for your weekly groups.
 
 ## Weekly Cadence
 
