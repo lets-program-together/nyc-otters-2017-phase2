@@ -25,6 +25,7 @@ Continue practicing and slowly working to demystify asynchronous requests and DO
 
 Practicing CRUD is highly suggested this weekend. How you do that is completely up to you. I've included the below challenges for you if you don't have another personal CRUD app you want to build.
 
+- [Todo List](../../../../ToDoList)
 - [Hacker News Clone Part One](../../../../hacker-news-clone-part-1-challenge)
 - [Hacker News Clone Part Two](../../../../hacker-news-clone-part-2-challenge)
 
