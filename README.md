@@ -45,7 +45,7 @@
 
 ## Weekly Groups
 
-See the [wiki](https://github.com/nyc-wolves-2016/phase-2-guide/wiki/Groups) for your weekly groups.
+See the <a href="../../wiki/Groups">wiki</a> for your weekly groups.
 
 ## Weekly Cadence
 
